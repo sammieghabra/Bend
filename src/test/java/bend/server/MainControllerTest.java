@@ -1,4 +1,4 @@
-package main.java.server;
+package bend.server;
 
 import static org.junit.Assert.*;
 

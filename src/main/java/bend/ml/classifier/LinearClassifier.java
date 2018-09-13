@@ -1,8 +1,8 @@
-package ml.classifier;
+package bend.ml.classifier;
 
-import ml.input.Input;
-import ml.output.Output;
-import ml.parameter.HyperParameter;
+import bend.ml.input.Input;
+import bend.ml.output.Output;
+import bend.ml.parameter.HyperParameter;
 
 public class LinearClassifier implements Classifier {
 

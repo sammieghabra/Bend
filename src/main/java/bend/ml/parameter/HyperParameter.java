@@ -1,4 +1,4 @@
-package ml.parameter;
+package bend.ml.parameter;
 
 public class HyperParameter {
 }

@@ -1,6 +1,6 @@
-package ml.input;
+package bend.ml.input;
 
-import ml.output.Output;
+import bend.ml.output.Output;
 
 public interface Input<T> {
 

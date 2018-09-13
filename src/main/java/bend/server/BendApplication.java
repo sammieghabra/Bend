@@ -1,4 +1,4 @@
-package server;
+package bend.server;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
